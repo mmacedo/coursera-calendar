@@ -1,0 +1,9 @@
+{
+  "name": "coursera-calendar",
+  "description": "A web application that displays a calendar of Coursera courses.",
+  "dependencies": {
+    "coffee-script" : ">= 1.4.0",
+    "less" : ">= 1.3.3"
+    "jade" : ">= 0.28.1",
+  }
+}
