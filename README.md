@@ -23,6 +23,6 @@ Download, setup and run:
 ```
 git clone https://github.com/mmacedo/coursera-calendar
 cd coursera-calendar
-sudo npm install -global
+npm install -local
 ./server.coffee
 ```
